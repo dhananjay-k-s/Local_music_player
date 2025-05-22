@@ -6,9 +6,9 @@ It has audio search function, genre classification, language classification and 
 
 ## Screenshort 
 <div>
-  <img  src = "" height = 600 />
-<img  src = "" height = 600 />
-<img  src = "" height = 600 />
+  <img  src = "https://github.com/dhananjay-k-s/Local_music_player/blob/main/Screenshots/photo_2025-05-22_19-40-16.jpg" height = 600 />
+<img  src = "https://github.com/dhananjay-k-s/Local_music_player/blob/main/Screenshots/photo_2025-05-22_19-40-57.jpg" height = 600 />
+<img  src = "https://github.com/dhananjay-k-s/Local_music_player/blob/main/Screenshots/photo_2025-05-22_19-41-01.jpg" height = 600 />
 </div>
 
 ## 🚀 Features
