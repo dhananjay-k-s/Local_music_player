@@ -43,11 +43,11 @@ It has audio search function, genre classification, language classification and 
 ## 📲 Installation
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/dhananjay-k-s/Local_music_player.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd tunesync
+   cd Local_music_player
    ```
 3. Install dependencies:
    ```sh
